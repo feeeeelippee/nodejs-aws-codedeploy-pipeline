@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saasscaleup/nodejs-aws-codedeploy-pipeline.git"
+    "url": "git+https://github.com/feeeeelippee/nodejs-aws-codedeploy-pipeline.git"
   },
   "keywords": [
     "aws",
@@ -26,12 +26,12 @@
     "nodejs",
     "express.js"
   ],
-  "author": "ScaleUp SaaS",
+  "author": "Chris Palma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saasscaleup/nodejs-aws-codedeploy-pipeline/issues"
+    "url": "https://github.com/feeeeelippee/nodejs-aws-codedeploy-pipeline/issues"
   },
-  "homepage": "https://github.com/saasscaleup/nodejs-aws-codedeploy-pipeline#readme",
+  "homepage": "https://github.com/feeeeelippee/nodejs-aws-codedeploy-pipeline#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
